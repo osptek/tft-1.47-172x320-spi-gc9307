@@ -31,7 +31,7 @@
 
 OSPTEK **1.47″ 172×320 TFT** is a **SPI** color display module driven by **GC9307**. Suited to handheld devices, narrow information bars, and compact portrait HMI.
 
-Spec ID (repository name): `1.47-tft-172x320-spi-gc9307`
+Spec ID (repository name): `tft-1.47-172x320-spi-gc9307`
 
 Current module version: **YDP147H009-V2**. Electrical and mechanical details follow [`docs/YDP147H009-V2.pdf`](./docs/YDP147H009-V2.pdf).
 
@@ -56,7 +56,7 @@ Current module version: **YDP147H009-V2**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-1.47-tft-172x320-spi-gc9307/                                # repo root (nav: ../../README_EN.md)
+tft-1.47-172x320-spi-gc9307/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP147H009-V2/                                # full materials for this part number
         ├── README.md
