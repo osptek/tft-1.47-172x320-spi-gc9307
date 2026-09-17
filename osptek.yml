@@ -1,0 +1,14 @@
+id: tft-1.47-172x320-spi-gc9307
+category: displays
+
+size: "1.47"
+panel: tft
+resolution: 172x320
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP147H009-V2
+    driver: GC9307
+    touch: none
+    note: none
